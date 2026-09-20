@@ -4,7 +4,7 @@
             "#include <stdio.h>",
             "\n",
             "int main() {",
-            "\t",
+            "\t$1",
             "\treturn 0;",
             "}"
         ],
